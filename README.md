@@ -1,6 +1,18 @@
-# Agent Companion TIM Standalone
+<p align="center">
+  <img src="./assets/readme/hero.gif" width="100%" alt="Agent Companion TIM——戴牛仔帽的白色机器狗 TIM 收到「帮我跑下测试」消息后回复「任务完成，全部通过」，爱心星星特效弹出，idle/running/needs_input/ready/blocked/extras 六个状态徽章依次点亮。">
+</p>
+
+<h1 align="center">Agent Companion TIM Standalone</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/node.js-20%2B-4cc38a.svg" alt="Node.js 20+">
+  <img src="https://img.shields.io/badge/%E4%BE%9D%E8%B5%96-%E6%97%A0%E6%95%B0%E6%8D%AE%E5%BA%93%2F%E5%AE%B9%E5%99%A8-35c8ff.svg" alt="no db no container">
+  <img src="https://img.shields.io/badge/%E6%9C%AC%E5%9C%B0%E4%BC%98%E5%85%88-%E5%AF%86%E9%92%A5%E4%B8%8D%E5%87%BA%E6%9C%BA-35c8ff.svg" alt="local first">
+</p>
 
 一个可独立运行的 TIM（AI 陪伴角色）工作台：桌面上养一只会陪你跑任务的 AI 助手。它是 Agent Companion TIM 的独立版本，只保留可运行的 Standalone 页面及其必要依赖。
+
+## TIM 本体
 
 <p align="center">
   <img src="assets/tim-idle.gif" alt="TIM 呼吸动画" width="192" />
@@ -66,4 +78,8 @@ http://127.0.0.1:4173/standalone
 
 ---
 
-中南 CSU 工科研究生、非 AI 从业者、热衷 AI 落地实践、Vibe Coding 持续记录，抖音/绿泡公号🔍『清晨方白晓』一起定期分享好玩的东西。
+## 作者
+
+**清晨方白晓** · 中南 CSU 工科研究生、非 AI 从业者，热衷 AI 落地实践与 Vibe Coding，持续记录分享好玩的东西。
+
+- 抖音 / 绿泡公号 🔍：**清晨方白晓**
